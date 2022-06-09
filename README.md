@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋 I'm BlueStoneQ.
+<h2>Hi there 👋 I'm BlueStoneQ. <h2>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=BlueStoneQ&count_private=true&show_icons=true&theme=tokyonight&line_height=27">
